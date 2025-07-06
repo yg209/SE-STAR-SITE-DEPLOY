@@ -1,0 +1,38 @@
+{
+  "rewrites": [
+    {
+      "source": "/dashboard",
+      "destination": "/dashboard/index.html"
+    },
+    {
+      "source": "/presale",
+      "destination": "/presale/index.html"
+    },
+    {
+      "source": "/ai",
+      "destination": "/ai/index.html"
+    },
+    {
+      "source": "/trustwall",
+      "destination": "/trustwall/index.html"
+    },
+    {
+      "source": "/learn",
+      "destination": "/learn/index.html"
+    },
+    {
+      "source": "/mascot",
+      "destination": "/mascot/index.html"
+    },
+    {
+      "source": "/escrow",
+      "destination": "/escrow/index.html"
+    },
+    {
+      "source": "/vault",
+      "destination": "/vault/index.html"
+    }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
+}
